@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_color">#2C7873</color>
+    <color name="boutton_color">#F9B34C</color>
+    <color name="icon_color">#9E9E9E</color>
+    <color name="colorYellow">#FFEB3B</color>
+    <color name="colorGray">#BDBDBD</color>
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorRed">#F44336</color>
+    <color name="lightgrey">#f1f1f1</color>
+</resources>

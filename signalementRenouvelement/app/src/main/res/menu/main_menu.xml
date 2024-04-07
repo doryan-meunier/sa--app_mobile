@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/hamburger_menu"
+        android:title=""
+        android:icon="@drawable/baseline_menu_24"
+        app:showAsAction="always"/>
+
+            <item
+                android:id="@+id/pageaccueil"
+                android:icon="@drawable/baseline_home_24"
+                android:title="Accueil"/>
+
+    <group android:id="@+id/menu_group">
+        <item
+            android:id="@+id/messignalements"
+            android:icon="@drawable/baseline_folder_shared_24"
+            android:title="Mes signalements"/>
+        <item
+            android:id="@+id/signaler"
+            android:icon="@drawable/alerte"
+            android:title="Signaler"/>
+    </group>
+
+    <group android:id="@+id/menu_group2">
+        <item
+            android:id="@+id/stats"
+            android:icon="@drawable/baseline_data_usage_24"
+            android:title="Âge utilisateurs" />
+        <item
+            android:id="@+id/admin"
+            android:icon="@drawable/baseline_bar_chart_24"
+            android:title="Médicaments signalés" />
+    </group>
+    <group android:id="@+id/menu_group3">
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/baseline_logout_24"
+            android:title="Déconnexion" />
+
+    </group>
+
+</menu>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ToolbarNavigationButton" parent="@style/Widget.AppCompat.Toolbar.Button.Navigation">
+        <item name="android:icon">@drawable/baseline_menu_24</item> <!-- Remplacez ic_menu par l'identifiant de votre icône de hamburger -->
+    </style>
+</resources>

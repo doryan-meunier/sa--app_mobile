@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651067351231",
+    "project_id": "signalementmedicament",
+    "storage_bucket": "signalementmedicament.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651067351231:android:9117519343ab2b351f260a",
+        "android_client_info": {
+          "package_name": "com.example.signalementrenouvelement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXrrHZef45ZQuZlc8QAwC7egkrMvnfhcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
